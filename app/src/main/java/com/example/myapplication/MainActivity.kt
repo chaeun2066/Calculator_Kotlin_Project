@@ -142,8 +142,4 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
-
-//    override fun sendMessage(message: String) {
-//        Toast.makeText(binding.root.context, "${message}", Toast.LENGTH_SHORT).show()
-//    }
 }
